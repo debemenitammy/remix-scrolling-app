@@ -1,26 +1,26 @@
-# Welcome to Remix!
+# Remix Scrolling Application
+This is an Infinite Scrolling application built with Remix and the `react-infinite-scroll-component`.
 
-- [Remix Docs](https://remix.run/docs)
+You can refer to the [Remix Docs](https://remix.run/docs) for reference.
 
-## Development
-
-From your terminal:
+## Running the project
+To run the project in development environment, use the following commands in your terminal:
 
 ```sh
 npm run dev
 ```
 
-This starts your app in development mode, rebuilding assets on file changes.
+Afterwards, the application will start running in development mode, rebuilding assets on file changes.
 
-## Deployment
+## Deploying the application
 
-First, build your app for production:
+To deploy the application, start by building the application for production with the following command:
 
 ```sh
 npm run build
 ```
 
-Then run the app in production mode:
+Next, run the application in production mode with the following command:
 
 ```sh
 npm start
